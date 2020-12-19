@@ -18,3 +18,4 @@ Run it!
 
 It will ask to whom you want to send email?
 -use the key you used in the dictionary,it will fetch the email address from there.
+And also do the other things on it's own.

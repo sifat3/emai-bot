@@ -1,4 +1,4 @@
-# emai-bot
+# email-bot
 This is an email bot, by this you don't have to type anything to send an email (by gmail). Just update the e-mail dictionary an run.
 Use your email address and password in 'your email' and 'your password'
 Update the email dictionary as key value pairs,inside the demo key use a name and in demo value use the receivers' email address.
